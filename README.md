@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Atilola
 
-<!--
-**Olabits-Dev/Olabits-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | SaaS Builder | Automation Systems
 
-Here are some ideas to get you started:
+## 🔥 What I Do
+- Build scalable SaaS systems
+- Develop mobile apps with React Native
+- Design backend systems with Node.js & PostgreSQL
+- Implement AI-powered workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Featured Projects
+
+### 🔹 MT5 Multi-Client Trading Bot
+Automated trading system with risk management, multi-account scaling, and real-time execution.
+
+### 🔹 SeaBite Express (PWA)
+Sales & inventory management system used in real business operations.
+
+## 🛠 Tech Stack
+- JavaScript, TypeScript
+- React Native (Expo)
+- Node.js, Express
+- PostgreSQL
+- REST APIs
+
+## 🌍 Open to
+- Remote Software Engineering roles
+- SaaS / FinTech / Automation projects
