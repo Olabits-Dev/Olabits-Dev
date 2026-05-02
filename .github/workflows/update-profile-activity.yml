@@ -61,6 +61,7 @@ jobs:
           mv "$FILE.tmp" "$FILE"
 
       - name: Update README with recent activity
+        if: ${{ github.event_name != 'repository_dispatch' }}
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -68,3 +69,17 @@ jobs:
           COMMIT_MSG: "⚡ Update README with latest activity"
           MAX_LINES: 10
           GH_USERNAME: Olabits-Dev
+
+      - name: Commit and push push-log update
+        if: ${{ github.event_name == 'repository_dispatch' }}
+        run: |
+          set -euo pipefail
+          if git diff --quiet README.md; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📝 Log latest push activity"
+          git push
