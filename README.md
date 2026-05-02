@@ -138,6 +138,11 @@ I’m focused on building software that combines:
 2. 💪 Opened PR [#1](https://github.com/Olabits-Dev/Car-rental-platform/pull/1) in [Olabits-Dev/Car-rental-platform](https://github.com/Olabits-Dev/Car-rental-platform)
 <!--END_SECTION:activity-->
 
+## Recent Pushes
+
+<!--START_SECTION:pushes-->
+<!--END_SECTION:pushes-->
+
 ---
 
 ## Profile Views

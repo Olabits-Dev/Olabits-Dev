@@ -17,6 +17,49 @@ jobs:
       - name: Checkout profile repo
         uses: actions/checkout@v4
 
+      - name: Update README with latest push event
+        if: ${{ github.event_name == 'repository_dispatch' }}
+        run: |
+          set -euo pipefail
+          FILE="README.md"
+          START="<!--START_SECTION:pushes-->"
+          END="<!--END_SECTION:pushes-->"
+
+          repo=$(jq -r '.client_payload.repository // ""' "$GITHUB_EVENT_PATH")
+          repo_url=$(jq -r '.client_payload.repository_url // ""' "$GITHUB_EVENT_PATH")
+          branch=$(jq -r '.client_payload.branch // ""' "$GITHUB_EVENT_PATH")
+          sha=$(jq -r '.client_payload.sha // ""' "$GITHUB_EVENT_PATH")
+          msg=$(jq -r '.client_payload.message // "Commit pushed"' "$GITHUB_EVENT_PATH" | tr '\r\n' ' ' | sed -E 's/[[:space:]]+/ /g' | sed -E 's/`/'"'"'/g')
+
+          if [ -z "$repo" ]; then
+            echo "No repository payload found; skipping push log update."
+            exit 0
+          fi
+
+          short_sha="${sha:0:7}"
+          now_utc=$(date -u +"%Y-%m-%d %H:%M UTC")
+          newline="- \`${now_utc}\` [${repo}](${repo_url}) on \`${branch}\` (\`${short_sha}\`) - ${msg}"
+
+          awk -v start="$START" -v end="$END" -v newline="$newline" '
+            BEGIN { in_block=0; kept=0; limit=19 }
+            $0 == start { print; print newline; in_block=1; next }
+            $0 == end {
+              in_block=0;
+              if (kept == 0) { }
+              print;
+              next
+            }
+            in_block == 1 {
+              if (length($0) > 0 && kept < limit) {
+                print;
+                kept++;
+              }
+              next
+            }
+            { print }
+          ' "$FILE" > "$FILE.tmp"
+          mv "$FILE.tmp" "$FILE"
+
       - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
