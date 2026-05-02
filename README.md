@@ -131,6 +131,13 @@ I’m focused on building software that combines:
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Olabits-Dev&style=flat-square)
