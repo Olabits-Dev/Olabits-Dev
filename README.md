@@ -141,6 +141,7 @@ I’m focused on building software that combines:
 ## Recent Pushes
 
 <!--START_SECTION:pushes-->
+- `2026-05-05 13:40 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`7831d9f`) - Update Olabits types with RealEstateBotConfig and legacy support 
 - `2026-05-05 13:39 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`8dd7939`) - Properly fix baseUrl deprecation by removing it and using ignoreDeprecations 6.0 
 - `2026-05-05 13:37 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`30dd0e8`) - Silence baseUrl deprecation warning in tsconfig 
 - `2026-05-05 12:01 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`7647633`) - Add Olabits widget type definitions 
