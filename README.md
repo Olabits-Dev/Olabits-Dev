@@ -141,6 +141,7 @@ I’m focused on building software that combines:
 ## Recent Pushes
 
 <!--START_SECTION:pushes-->
+- `2026-05-06 16:35 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `main` (`f269e61`) - docs: update CV link to Samuel_Atilola_Olawale CV.pdf 
 - `2026-05-05 14:01 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`4f9ca70`) - Add Olabits widget script to layout and reference in types 
 - `2026-05-05 13:55 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`2d062f1`) - Remove ignoreDeprecations to fix Vercel build error 
 - `2026-05-05 13:40 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`7831d9f`) - Update Olabits types with RealEstateBotConfig and legacy support 
