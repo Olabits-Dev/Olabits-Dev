@@ -134,8 +134,8 @@ I’m focused on building software that combines:
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Olabits-Dev/Car-rental-platform/pull/1) in [Olabits-Dev/Car-rental-platform](https://github.com/Olabits-Dev/Car-rental-platform)
-2. 💪 Opened PR [#1](https://github.com/Olabits-Dev/Car-rental-platform/pull/1) in [Olabits-Dev/Car-rental-platform](https://github.com/Olabits-Dev/Car-rental-platform)
+1. 🎉 Merged PR [#2](https://github.com/Olabits-Dev/Olabits_landing-page/pull/2) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
+2. 💪 Opened PR [#2](https://github.com/Olabits-Dev/Olabits_landing-page/pull/2) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
 <!--END_SECTION:activity-->
 
 ## Recent Pushes
