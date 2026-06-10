@@ -141,6 +141,7 @@ I’m focused on building software that combines:
 ## Recent Pushes
 
 <!--START_SECTION:pushes-->
+- `2026-06-10 08:22 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `update-cv-clean-resume` (`c1fa426`) - docs: update CV to clean resume version 
 - `2026-06-08 07:59 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `main` (`13b9730`) - docs: update CV to samuel-olawale-atilola-CV.pdf 
 - `2026-05-10 20:13 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `main` (`1ed1a23`) - docs: update CV to Samuel_Olawale_Atilola_Software_Engineer_CV_1.pdf 
 - `2026-05-06 16:35 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `main` (`f269e61`) - docs: update CV link to Samuel_Atilola_Olawale CV.pdf 
