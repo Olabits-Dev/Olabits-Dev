@@ -1,8 +1,8 @@
 # Samuel Olawale Atilola
 
-### Frontend Developer • Software Engineer • SaaS Builder • Automation Systems Developer
+### Fullstack Developer • Software Engineer • SaaS Builder • Automation Systems Developer
 
-I build practical, scalable, and user-focused software across **frontend engineering, SaaS platforms, automation systems, fintech products, real estate platforms, and business applications**.
+I build practical, scalable, and user-focused software across **frontend engineering, backend engineering, SaaS platforms, automation systems, fintech products, real estate platforms, and business applications**.
 
 <p align="left">
   <a href="https://olabits.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio" /></a>
@@ -14,16 +14,16 @@ I build practical, scalable, and user-focused software across **frontend enginee
 
 ## About Me
 
-I am a software developer focused on building products that solve real-world problems with clean interfaces, solid architecture, and practical business value.
+I am a software developer/engineer focused on building products that solve real-world problems with clean interfaces, solid architecture, and practical business value.
 
 My work spans:
 
-- **Frontend development** with React, Next.js, and modern JavaScript tooling
-- **Mobile app development** with React Native and Expo
-- **Backend systems** with Node.js, Express, and PostgreSQL
+- **Frontend development** with React, Next.js, VueJs and modern JavaScript tooling
+- **Mobile app development** with React Native, Flutter and Expo
+- **Backend systems** with Node.js, Express, and PostgreSQL, Java, Python, NestJs, REST API Architecture, SQLite, Prisma ORM, Fast API
 - **Automation workflows** for business productivity and developer operations
-- **SaaS products and dashboards** for management and monitoring
-- **Fintech and trading systems** with MT5 multi-client infrastructure
+- **SaaS products and dashboards** for management and monitoring and automated workflows 
+- **Fintech and trading systems** with MT5 multi-client infrastructure and automated workflows 
 
 ---
 
@@ -114,6 +114,7 @@ I’m focused on building software that combines:
 ## Open To
 
 - Frontend Developer roles
+- Backend Developer roles
 - Software Engineering opportunities
 - Remote contracts
 - SaaS product development
