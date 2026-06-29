@@ -1,6 +1,6 @@
 # Samuel Olawale Atilola
 
-### Fullstack Developer • Software Engineer • SaaS Builder • Automation Systems Developer
+### Fullstack Developer • Software/DevSecOps Engineer • SaaS Builder • Automation Systems Developer
 
 I build practical, scalable, and user-focused software across **frontend engineering, backend engineering, SaaS platforms, automation systems, fintech products, real estate platforms, and business applications**.
 
