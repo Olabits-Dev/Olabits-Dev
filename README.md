@@ -142,6 +142,7 @@ I’m focused on building software that combines:
 ## Recent Pushes
 
 <!--START_SECTION:pushes-->
+- `2026-06-30 18:56 UTC` [Olabits-Dev/Expensetracker_refilne](https://github.com/Olabits-Dev/Expensetracker_refilne) on `main` (`6fc113f`) - docs: add privacy policy page for Google Play Console submission 
 - `2026-06-30 14:26 UTC` [Olabits-Dev/Expensetracker_refilne](https://github.com/Olabits-Dev/Expensetracker_refilne) on `main` (`cdeedd4`) - chore: untrack node_modules, add root .gitignore, and update gradle wrapper 
 - `2026-06-30 14:14 UTC` [Olabits-Dev/Expensetracker_refilne](https://github.com/Olabits-Dev/Expensetracker_refilne) on `main` (`ba4922e`) - Update readme 
 - `2026-06-10 08:40 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`74377e3`) - feat: update skills and capability bands from new CV 
