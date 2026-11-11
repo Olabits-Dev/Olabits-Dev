@@ -142,6 +142,7 @@ I’m focused on building software that combines:
 ## Recent Pushes
 
 <!--START_SECTION:pushes-->
+- `2026-11-11 17:17 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`0c8dd11`) - design: client-focused hero, portrait & project screenshots, bento grid fix, light-mode contrast fixes, accessible portfolio filters & WhatsApp brief form 
 - `2026-11-11 16:53 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`6879143`) - feat: add engineering experience, full tech stack, and complete project portfolio (Farmitly, Ralot StockLink, School Portal, Olabits Estate Bot & Stores, SeaBite, Bybit & MT5) 
 - `2026-10-16 18:45 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`6c13d8c`) -  CV adjustment 
 - `2026-07-22 06:19 UTC` [Olabits-Dev/Expensetracker_refilne](https://github.com/Olabits-Dev/Expensetracker_refilne) on `main` (`4ebd4a9`) - build: update targetSdkVersion and compileSdkVersion to API 36 (Android 16) 
@@ -161,7 +162,6 @@ I’m focused on building software that combines:
 - `2026-05-05 13:37 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`30dd0e8`) - Silence baseUrl deprecation warning in tsconfig 
 - `2026-05-05 12:01 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`7647633`) - Add Olabits widget type definitions 
 - `2026-05-02 10:43 UTC` [Olabits-Dev/Olabits_store](https://github.com/Olabits-Dev/Olabits_store) on `main` (`a4b2d75`) - feat: add root vercel.json for API routing 
-- `2026-05-02 10:42 UTC` [Olabits-Dev/repo-profile-sync-template](https://github.com/Olabits-Dev/repo-profile-sync-template) on `main` (`b4a8f12`) - Template sync test 2 
 <!--END_SECTION:pushes-->
 
 ---
