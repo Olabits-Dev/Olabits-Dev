@@ -135,8 +135,8 @@ I’m focused on building software that combines:
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Olabits-Dev/Olabits_landing-page/pull/3) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
-2. 💪 Opened PR [#3](https://github.com/Olabits-Dev/Olabits_landing-page/pull/3) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
+1. 🎉 Merged PR [#5](https://github.com/Olabits-Dev/Olabits_landing-page/pull/5) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
+2. 💪 Opened PR [#5](https://github.com/Olabits-Dev/Olabits_landing-page/pull/5) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
 <!--END_SECTION:activity-->
 
 ## Recent Pushes
