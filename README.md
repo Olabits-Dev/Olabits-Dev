@@ -142,6 +142,7 @@ I’m focused on building software that combines:
 ## Recent Pushes
 
 <!--START_SECTION:pushes-->
+- `2026-11-11 16:53 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`6879143`) - feat: add engineering experience, full tech stack, and complete project portfolio (Farmitly, Ralot StockLink, School Portal, Olabits Estate Bot & Stores, SeaBite, Bybit & MT5) 
 - `2026-10-16 18:45 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`6c13d8c`) -  CV adjustment 
 - `2026-07-22 06:19 UTC` [Olabits-Dev/Expensetracker_refilne](https://github.com/Olabits-Dev/Expensetracker_refilne) on `main` (`4ebd4a9`) - build: update targetSdkVersion and compileSdkVersion to API 36 (Android 16) 
 - `2026-06-30 18:56 UTC` [Olabits-Dev/Expensetracker_refilne](https://github.com/Olabits-Dev/Expensetracker_refilne) on `main` (`6fc113f`) - docs: add privacy policy page for Google Play Console submission 
