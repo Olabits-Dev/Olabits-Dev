@@ -155,6 +155,7 @@ Whether you have an upcoming mobile app to build, an enterprise web application 
 ## Recent Pushes
 
 <!--START_SECTION:pushes-->
+- `2026-11-19 01:03 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`1fb87ee`) - feat: integrate @vercel/analytics and @vercel/speed-insights in root layout for real-time traffic and Web Vitals tracking 
 - `2026-11-11 17:17 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`0c8dd11`) - design: client-focused hero, portrait & project screenshots, bento grid fix, light-mode contrast fixes, accessible portfolio filters & WhatsApp brief form 
 - `2026-11-11 16:53 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`6879143`) - feat: add engineering experience, full tech stack, and complete project portfolio (Farmitly, Ralot StockLink, School Portal, Olabits Estate Bot & Stores, SeaBite, Bybit & MT5) 
 - `2026-10-16 18:45 UTC` [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page) on `dev-sam` (`6c13d8c`) -  CV adjustment 
@@ -174,7 +175,6 @@ Whether you have an upcoming mobile app to build, an enterprise web application 
 - `2026-05-05 13:39 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`8dd7939`) - Properly fix baseUrl deprecation by removing it and using ignoreDeprecations 6.0 
 - `2026-05-05 13:37 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`30dd0e8`) - Silence baseUrl deprecation warning in tsconfig 
 - `2026-05-05 12:01 UTC` [Olabits-Dev/GMT-Homes-Real_Estate](https://github.com/Olabits-Dev/GMT-Homes-Real_Estate) on `main` (`7647633`) - Add Olabits widget type definitions 
-- `2026-05-02 10:43 UTC` [Olabits-Dev/Olabits_store](https://github.com/Olabits-Dev/Olabits_store) on `main` (`a4b2d75`) - feat: add root vercel.json for API routing 
 <!--END_SECTION:pushes-->
 
 ---
