@@ -148,8 +148,8 @@ Whether you have an upcoming mobile app to build, an enterprise web application 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Olabits-Dev/Olabits_landing-page/pull/6) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
-2. 💪 Opened PR [#6](https://github.com/Olabits-Dev/Olabits_landing-page/pull/6) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
+1. 🎉 Merged PR [#7](https://github.com/Olabits-Dev/Olabits_landing-page/pull/7) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
+2. 💪 Opened PR [#7](https://github.com/Olabits-Dev/Olabits_landing-page/pull/7) in [Olabits-Dev/Olabits_landing-page](https://github.com/Olabits-Dev/Olabits_landing-page)
 <!--END_SECTION:activity-->
 
 ## Recent Pushes
